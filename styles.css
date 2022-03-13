@@ -1,0 +1,63 @@
+.fab:hover{
+    /*color:#284A6D;*/
+    transition: all 0.75s;
+  }
+  
+  .fa-youtube:hover{
+    color:#ff0000;
+  }
+  
+  .fa-linkedin:hover{
+    color:#0a66c2;
+  }
+  
+  .fa-twitter:hover{
+    color:#1da1f2;
+  }
+  
+  .fa-facebook:hover{
+    color:#1877f2;
+  }
+  
+  .fa-instagram:hover{
+    color:#c32aa3;
+  }
+  
+  .fa-tiktok:hover{
+    color:#010101;
+  }
+  
+  .fa-twitch:hover{
+    color:#9146ff;
+  }
+  
+  .fa-google:hover{
+    color:#4285f4;
+  }
+  
+  .fa-discord:hover{
+    color:#5865f2;
+  }
+  
+  .fa-pinterest:hover{
+    color:#bd081c;
+  }
+  
+  .fa-snapchat:hover{
+    color:#fffc00;
+  }
+  
+  .fa-whatsapp:hover{
+    color:#25d366;
+  }
+  
+  .fa-reddit:hover{
+    color:#ff4500;
+  }
+  
+  .fa-yelp:hover{
+    color:#d32323;
+  }
+  .fa-slack:hover{
+    color:#4a154b;
+  }
